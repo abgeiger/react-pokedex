@@ -4,8 +4,10 @@ import './App.scss';
 
 function App() {
   return (
-    <div className="App">
-      <h1>Test</h1>
+    <div className="app">
+      <div className="app__container">
+
+      </div>
     </div>
   );
 }

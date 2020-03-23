@@ -1,0 +1,15 @@
+@import "./global-styles/variables";
+
+.app {
+  background-color: $gray-06;
+  min-height: 100vh;
+
+  &__container {
+    width: 80%;
+    max-width: 900px;
+    min-height: 100vh;
+    background-color: $white-01;
+    margin: auto;
+  }
+
+}
